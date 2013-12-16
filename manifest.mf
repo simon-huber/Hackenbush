@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.simon.huber.hackenbush.HauptFenster
+SplashScreen-Image: Hackenbush.png
