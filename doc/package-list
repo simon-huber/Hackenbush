@@ -1,0 +1,14 @@
+com.simon.huber.hackenbush
+com.simon.huber.hackenbush.actionlisteners
+com.simon.huber.hackenbush.calculation
+com.simon.huber.hackenbush.create
+com.simon.huber.hackenbush.dataobjects
+com.simon.huber.hackenbush.dataobjects.hilfsobjekte
+com.simon.huber.hackenbush.exceptions
+com.simon.huber.hackenbush.gui
+com.simon.huber.hackenbush.gui.info
+com.simon.huber.hackenbush.menu
+com.simon.huber.hackenbush.resources
+com.simon.huber.hackenbush.spieler
+com.simon.huber.hackenbush.throwable
+com.simon.huber.hackenbush.tools
